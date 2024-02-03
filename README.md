@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandana KR</h1>
 <h3 align="center">🎓 M.Tech Graduate from RVCE 🚀</h3>
 
-- 🔭 I’m currently working on **Devops and Data Analysis**
+- 🔭 I’m currently working on **Devops and Python**
 
 - 🌱 I’m currently learning **Devops with AWS**
 
